@@ -1,2 +1,2 @@
-# simpleChatApp
-Simple chat app using Socket
+# [Student project|Java Socket] SimpleChatApp
+Simple chat app using Java
